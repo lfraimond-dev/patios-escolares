@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://escuelas.cauchosrk.com/sitemap.xml
